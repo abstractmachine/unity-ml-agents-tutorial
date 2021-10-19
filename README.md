@@ -3,6 +3,7 @@ This is the workflow we collectively developed at the Media Design Master (HEADâ
 
 ### Installation
 
+We are following these two tutorials from Unity:
 - [Getting Started](https://github.com/Unity-Technologies/ml-agents/blob/main/docs/Getting-Started.md)
 - [Installation](https://github.com/Unity-Technologies/ml-agents/blob/main/docs/Installation.md)
 
