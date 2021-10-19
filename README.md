@@ -34,7 +34,7 @@ mlagents-learn config/ppo/3DBall.yaml --run-id=HelloMediaDesign
 ### Training Our Own Project from Scratch
 
 Make sure your Python installation of ML Agents is working (cf. above)
-- Create a new Unity Project (version 2020.3) 
+- Create a new Unity Project (version 2020.4) 
 - Window > Package Manager. 
 - Change the Packages tab to : Unity Registry
 - Find “ML Agents” and click Install
